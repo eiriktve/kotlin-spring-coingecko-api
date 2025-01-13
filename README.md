@@ -4,7 +4,7 @@ API which populates a db with data from CoinGecko, and serves crypto data such a
 current prices, trends etc available through different endpoints.
 
 ## Technologies / features
-* Kotlin with Java 17 JVM
+* Kotlin with JDK 17
 * Spring Boot 3
 * Spring JDBC CRUD with H2
 * Webclient/Webflux
